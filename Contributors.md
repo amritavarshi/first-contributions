@@ -9,7 +9,7 @@
 - [Yudi](https://github.com/yudi7ll)
 - [Zach James](https://github.com/ZachJames)
 - [Florian Le Gars](https://github.com/florian-lg)
-[Amrita Varshini](https://github.com/amritavarshi)
+-[Amrita Varshini](https://github.com/amritavarshi)
 - [Mike Thramann](https://github.com/mthramann)
 - [Giovanni Lituma](https://github.com/giovannixdev)
 - [David Bednar](https://github.com/purefisher)
